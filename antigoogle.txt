@@ -3,7 +3,7 @@
 accounts.google.com
 ajax.googleapis.com
 android-safebrowsing.google.com
-android.clients.google.com
+# android.clients.google.com - I may need this also
 android.googleapis.com
 api.google.com
 clients1.google.com
