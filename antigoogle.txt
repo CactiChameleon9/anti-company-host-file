@@ -1,0 +1,35 @@
+accounts.google.com
+ajax.googleapis.com
+android-safebrowsing.google.com
+android.clients.google.com
+android.googleapis.com
+api.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+fonts.googleapis.com
+google.com
+googleads.g.doubleclick.net
+googleadservices.com
+googleapis.com
+googlesyndication.com
+googletagmanager.com
+googleusercontent.com
+#googlevideo.com - I may need this
+infinitedata-pa.googleapis.com
+lh1.googleusercontent.com
+lh2.googleusercontent.com
+lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
+maps.googleapis.com
+mdh-pa.googleapis.com
+mobilemaps-pa.googleapis.com
+mtalk.google.com
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
+#play.googleapis.com - I may need this
+playatoms-pa.googleapis.com
+safebrowsing.googleapis.com
