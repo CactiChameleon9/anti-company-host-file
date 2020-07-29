@@ -1,0 +1,5 @@
+#copied from log
+eula.samsungiotcloud.com
+vas.samsungapps.com
+gld.di.atlas.samsung.com
+dc.di.atlas.samsung.com
