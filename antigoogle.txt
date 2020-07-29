@@ -1,3 +1,5 @@
+#All copied from query log
+
 accounts.google.com
 ajax.googleapis.com
 android-safebrowsing.google.com
@@ -24,6 +26,7 @@ lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
+mail.google.com
 maps.googleapis.com
 mdh-pa.googleapis.com
 mobilemaps-pa.googleapis.com
@@ -61,6 +64,7 @@ www.lh3.googleusercontent.com
 www.lh4.googleusercontent.com
 www.lh5.googleusercontent.com
 www.lh6.googleusercontent.com
+www.mail.google.com
 www.maps.googleapis.com
 www.mdh-pa.googleapis.com
 www.mobilemaps-pa.googleapis.com
