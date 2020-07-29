@@ -33,3 +33,40 @@ pagead2.googlesyndication.com
 #play.googleapis.com - I may need this
 playatoms-pa.googleapis.com
 safebrowsing.googleapis.com
+
+#www. versions
+www.accounts.google.com
+www.ajax.googleapis.com
+www.android-safebrowsing.google.com
+www.android.clients.google.com
+www.android.googleapis.com
+www.api.google.com
+www.clients1.google.com
+www.clients2.google.com
+www.clients3.google.com
+www.clients4.google.com
+www.fonts.googleapis.com
+www.google.com
+www.googleads.g.doubleclick.net
+www.googleadservices.com
+www.googleapis.com
+www.googlesyndication.com
+www.googletagmanager.com
+www.googleusercontent.com
+#www.googlevideo.com - I may need this
+www.infinitedata-pa.googleapis.com
+www.lh1.googleusercontent.com
+www.lh2.googleusercontent.com
+www.lh3.googleusercontent.com
+www.lh4.googleusercontent.com
+www.lh5.googleusercontent.com
+www.lh6.googleusercontent.com
+www.maps.googleapis.com
+www.mdh-pa.googleapis.com
+www.mobilemaps-pa.googleapis.com
+www.mtalk.google.com
+www.pagead1.googlesyndication.com
+www.pagead2.googlesyndication.com
+#www.play.googleapis.com - I may need this
+www.playatoms-pa.googleapis.com
+www.safebrowsing.googleapis.com
