@@ -3,3 +3,7 @@ eula.samsungiotcloud.com
 vas.samsungapps.com
 gld.di.atlas.samsung.com
 dc.di.atlas.samsung.com
+www.eula.samsungiotcloud.com
+www.vas.samsungapps.com
+www.gld.di.atlas.samsung.com
+www.dc.di.atlas.samsung.com
